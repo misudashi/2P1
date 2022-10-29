@@ -1,0 +1,12 @@
+Pour la 0.1.0: 
+
+- Avoir une conversation très fluide et répondre à n'importe quelle question
+    Choses à implémenter: Etat d'émotion: "ça va? comment vas-tu?" => ça va, mon programme m'indique que je n'ai pas reçu d'erreur / j'ai reçu un message d'erreur provenant de la fonction <fonction>
+                          Traductions dans 20 langues
+                          Opérations: multiplications, additions, soustractions, etc complexes.
+
+
+
+Pour la 1.0.0: 
+
+- Augmenter son vocabulaire, varier ses réponses selon son humeur pour avoir la sensation de parler avec une personne normale.

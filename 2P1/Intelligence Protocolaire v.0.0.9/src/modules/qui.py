@@ -1,0 +1,2 @@
+rien = "Voulez-vous que je recherche sur Internet une personnalité publique ? Merci de l'indiquer en utilisant la formule 'qui est' par exemple."
+nof = "Je n'ai trouvé aucune page Wikipedia parlant de votre requête. J'ai tout de même fait une liste de quelques liens vers des sites web sûrs qui pourront probablement répondre à votre question. Vous pouvez améliorer ma liste de sites web non-sûrs via le fichier 'string_list.py', variable 'safe_websites' !"

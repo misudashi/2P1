@@ -1,0 +1,5 @@
+unfoundpref = "Je n'ai pas vraiment de préférences à ce sujet.. Mais vous pouvez me faire part de vos goûts personnels !"
+livreu = "Mon livre préféré est "
+filmeu = "Mon film préféré est "
+serieu = "Mon film préféré est "
+jeuu = "Mon jeux préféré est "
